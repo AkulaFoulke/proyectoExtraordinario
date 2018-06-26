@@ -1,0 +1,18 @@
+{
+	"usuario_1": [
+		{
+			"idOrden": "O-5394",
+			"idvehiculo": "CS124928"
+		},
+		{
+			"idOrden": "O-5396",
+			"idVehiculo": "CS374926"
+		}
+	],
+	"usuario_2": [
+		{
+			"idOrden": "O-5395",
+			"idvehiculo": "CS124928"
+		}
+	]
+}

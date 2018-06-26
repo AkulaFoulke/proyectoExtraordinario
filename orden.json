@@ -1,0 +1,23 @@
+{
+	"O-5394": {
+		"fechaInicio": "23-06-2018 15:00:00",
+		"fechaFin": "23-06-2018 15:30:00",
+		"carga_perecedera": true,
+		"estado": "completo",
+		"detalles": "ninguno"
+	},
+	"O-5395": {
+		"fechaInicio": "23-06-2018 16:25:00",
+		"fechaFin": "24-06-2018 06:45:00",
+		"carga_perecedera": false,
+		"estado": "en curso",
+		"detalles": "ninguno"
+	},
+	"O-5396": {
+		"fechaInicio": "23-06-2018 16:40:00",
+		"fechaFin": "23-06-2018 17:32:39",
+		"carga_perecedera": true,
+		"estado": "no completo",
+		"detalles": "trafico lento y fallo en refrigeración pudrieron el pescado"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"CS124928": {
+		"vehiculo": "camion",
+		"tipo": "semiremolque",
+		"velocidad_max": 60,
+		"volumen_carga": 20000
+	},
+	"CS374926": {
+		"vehiculo": "furgoneta",
+		"tipo": "refrigerada",
+		"velocidad_max": 75,
+		"volumen_carga": 2500
+	}
+}
